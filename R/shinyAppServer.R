@@ -76,7 +76,7 @@ shinyAppServer <- function(input, output) {
   
   # function to create array of colours
   
-  getPalette = grDevices::colorRampPalette(brewer.pal(9, "Set1"))
+  #getPalette = grDevices::colorRampPalette(brewer.pal(9, "Set1"))
   
   ##################################################################
   
